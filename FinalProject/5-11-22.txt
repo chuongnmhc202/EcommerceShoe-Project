@@ -1,0 +1,12 @@
+- Thanh toán:
+	2 option: 
+	+ COD 
+	+ Thẻ: hiện trang để điền thông tin khách hàng, khi nhập sai sẽ báo lỗi và không load lên db
+ -> Nếu đúng thì cả phương thức đã chọn lên db
+- Bình luận: thêm bình luận, reply bình luận đã bình luận
+- Quên mk: điền mail đã dùng để đăng nhập và sẽ nhận được mk mới ở mail đã đăng ký,
+nhận mật khẩu mới và tiến hành lấy lại mk
+- Gửi mail cho khách hàng
+- Quy trình bán hàng:
+- Sản phẩm KH mua hàng sẽ hiện trên trang admin 
+-> Khi admin
